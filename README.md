@@ -3,6 +3,8 @@
 
 An advanced facial emotion recognition system that provides real-time emotion detection with explainable AI visualizations. The system analyzes facial expressions across multiple regions, provides confidence scoring, and offers detailed insights into its decision-making process, making it particularly valuable for psychological research and clinical applications.
 
+![app gif](https://github.com/user-attachments/assets/8cbab127-8f1b-4d42-afeb-e19980ea4779)
+
 ## Features
 - Real-time facial emotion detection
 - Multi-region facial analysis with confidence scoring
